@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Instructions on using the content are contained within Modeling_a_Hybrid_Microgrid.mlx.
+Instructions on using the content are contained within Modeling_a_Hybrid_Microgrid.mlx and Microgrid_Energy_Management.mlx.
 
 ## The Hybrid Microgrid
 The system we are working towards is a hybrid AC/DC microgrid containing traditional rotating machinery, a battery, two fuel cells and a PV array. There is a simple management system that controls the transfer of power between the DC and AC sides.
