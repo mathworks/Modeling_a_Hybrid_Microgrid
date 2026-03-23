@@ -1,4 +1,4 @@
-# Modeling a Hybrid Microgrid in Simscape Electrical&trade;
+# Modeling a Hybrid Microgrid in Simscape&trade; Electrical&trade;
 
 ## Getting Started
 
@@ -39,4 +39,4 @@ Deploying the Model
 - Simulink Compiler&trade; (for deployment)
 - Simulink Real-Time&trade; (for real-time simulation)
 
-Copyright (c) 2022, The MathWorks, Inc.
+Copyright (c) 2026, The MathWorks, Inc.
