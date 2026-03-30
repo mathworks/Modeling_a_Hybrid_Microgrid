@@ -1,5 +1,7 @@
 # Modeling a Hybrid Microgrid in Simscape&trade; Electrical&trade;
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Modeling_a_Hybrid_Microgrid)
+
 ## Getting Started
 
 Instructions on using the content are contained within Modeling_a_Hybrid_Microgrid.mlx and Microgrid_Energy_Management.mlx.
