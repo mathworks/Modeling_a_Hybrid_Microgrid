@@ -6,10 +6,10 @@
 
 There are two project archives,
 
-Modeling_a_Hybrid_Microgrid.mlproj - this contains models that build towards a full system.
-Microgrid_Energy_Management.mlproj - this contains a full system model with various modes of operation.
+* Modeling_a_Hybrid_Microgrid.mlproj - this contains models that build towards a full system.
+* Microgrid_Energy_Management.mlproj - this contains a full system model with various modes of operation.
 
-Double-click on a .mlproj file to install the poject. When you install, the project will also load. Note that for subsequent use of a project, you need only double-click the .prj file.
+Double-click on a .mlproj file to install the project. When you install, the project will also load. Note that for subsequent use of a project, you need only double-click the .prj file.
 
 Instructions on using the content are contained within Modeling_a_Hybrid_Microgrid.mlx and Microgrid_Energy_Management.mlx.
 
